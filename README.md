@@ -13,6 +13,7 @@ A simple implementation for a text-file based phonebook system using C programmi
 
 ### Pre-requisites ❔
 - Windows operating system to run project.exe (but project.c & project.o are executable on any system).
+- GNU (or any othe C compiler) to compile project.c.
 - A text file containing phonebook records with the following format: 
 
 ### How to use the application :question:
