@@ -6,6 +6,7 @@ A simple implementation for a text-file based phonebook system using C programmi
 - project.exe  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _run the app from this file_
 - project.c   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   _source code_
 - project.o   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   _object code_
+- phonebook user manual.pdf &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   _User Manual_
 
 ### Used Language 💻
 
