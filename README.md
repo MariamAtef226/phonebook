@@ -14,13 +14,14 @@ A simple implementation for a text-file based phonebook system using C programmi
 ### Pre-requisites ❔
 - Windows operating system to run project.exe (but project.c & project.o are executable on any system).
 - GNU (or any othe C compiler) to compile project.c.
-- A text file containing phonebook records with the following format: 
+- A text file containing phonebook records with the following format:    __Last Name,First Name,Date Of Birth,Address,Phone Number,Email__
 
 ### How to use the application :question:
 - Run the .exe file
 - Load phonebook records from an existing textfile within the same directory as project.exe
-- Iff records are loaded successfully, you can apply any o the avilable functions on them.
+- Iff records are loaded successfully, you can apply any of the available functions on them.
 - To select an operation, enter its number from the displayed menu
+- for more details, check the attached user guide with the project
 
 
 ### Authors 🖊️
